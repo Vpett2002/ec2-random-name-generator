@@ -1,4 +1,4 @@
-# EC2 Random Name Generator
+# EC2 Random Name Ge
 
 This Python script generates unique EC2 instance names using:
 - Department names
