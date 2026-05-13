@@ -9,7 +9,9 @@ The application uses Python functions, loops, sets, conditional statements, and 
 
 ## Example Output
 Enter your department name (Marketing, Accounting, FinOps): Accounting
+
 How many names would your department like? 3
+
 Generated EC2 Names:
 Accounting-ec2-926jp
 Accounting-ec2-0fk91
